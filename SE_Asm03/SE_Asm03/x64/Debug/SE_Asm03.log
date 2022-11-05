@@ -1,0 +1,11 @@
+﻿  Assembling SE_Asm03.asm...
+SE_Asm03.asm(1): error A2008: syntax error : .
+SE_Asm03.asm(2): error A2008: syntax error : .
+SE_Asm03.asm(8): error A2008: syntax error : .
+SE_Asm03.asm(56): error A2008: syntax error : MessageBoxA
+SE_Asm03.asm(57): error A2008: syntax error : INVOKE
+SE_Asm03.asm(60): error A2008: syntax error : MessageBoxA
+SE_Asm03.asm(61): error A2008: syntax error : INVOKE
+SE_Asm03.asm(68): error A2008: syntax error : main
+SE_Asm03.asm(68): error A2088: END directive required at end of file
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\SE_Asm03.obj" /Fl"x64\Debug\\" /W3 /errorReport:prompt  /TaSE_Asm03.asm" с кодом "1".
