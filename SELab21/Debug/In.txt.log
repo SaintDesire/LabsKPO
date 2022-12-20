@@ -1,0 +1,205 @@
+
+Таблица лексем:
+
+1  t		idxTI-1
+f		idxTI-1
+i		idxTI0
+(		idxTI-1
+t		idxTI-1
+i		idxTI1
+,		idxTI-1
+t		idxTI-1
+i		idxTI2
+)		idxTI-1
+{
+2  d		idxTI-1
+t		idxTI-1
+i		idxTI3
+;
+3  i		idxTI3
+=		idxTI-1
+i		idxTI1
+v		idxTI4
+(		idxTI-1
+i		idxTI1
+v		idxTI5
+i		idxTI2
+)		idxTI-1
+;
+4  r		idxTI-1
+i		idxTI3
+;
+5  }		idxTI-1
+;
+6  t		idxTI-1
+f		idxTI-1
+i		idxTI6
+(		idxTI-1
+t		idxTI-1
+i		idxTI7
+,		idxTI-1
+t		idxTI-1
+i		idxTI8
+)		idxTI-1
+{
+7  d		idxTI-1
+t		idxTI-1
+i		idxTI9
+;
+8  d		idxTI-1
+t		idxTI-1
+f		idxTI-1
+i		idxTI10
+(		idxTI-1
+t		idxTI-1
+i		idxTI7
+,		idxTI-1
+t		idxTI-1
+i		idxTI12
+,		idxTI-1
+t		idxTI-1
+i		idxTI13
+)		idxTI-1
+;
+9  i		idxTI9
+=		idxTI-1
+i		idxTI10
+(		idxTI-1
+i		idxTI7
+,		idxTI-1
+l		idxTI14
+,		idxTI-1
+l		idxTI15
+)		idxTI-1
+v		idxTI16
+i		idxTI8
+;
+10  r		idxTI-1
+i		idxTI9
+;
+11  }		idxTI-1
+;
+12  m		idxTI-1
+{
+13  d		idxTI-1
+t		idxTI-1
+i		idxTI17
+;
+14  d		idxTI-1
+t		idxTI-1
+i		idxTI18
+;
+15  d		idxTI-1
+t		idxTI-1
+i		idxTI19
+;
+16  d		idxTI-1
+t		idxTI-1
+i		idxTI20
+;
+17  d		idxTI-1
+t		idxTI-1
+i		idxTI21
+;
+18  d		idxTI-1
+t		idxTI-1
+i		idxTI22
+;
+19  d		idxTI-1
+t		idxTI-1
+i		idxTI23
+(		idxTI-1
+t		idxTI-1
+i		idxTI24
+)		idxTI-1
+;
+20  i		idxTI17
+=		idxTI-1
+l		idxTI14
+;
+21  i		idxTI18
+=		idxTI-1
+l		idxTI25
+;
+22  i		idxTI20
+=		idxTI-1
+l		idxTI26
+;
+23  i		idxTI21
+=		idxTI-1
+l		idxTI26
+;
+24  i		idxTI19
+=		idxTI-1
+i		idxTI0
+(		idxTI-1
+i		idxTI17
+,		idxTI-1
+i		idxTI18
+)		idxTI-1
+;
+25  i		idxTI22
+=		idxTI-1
+i		idxTI6
+(		idxTI-1
+i		idxTI20
+,		idxTI-1
+i		idxTI21
+)		idxTI-1
+;
+26  p		idxTI-1
+l		idxTI26
+;
+27  p		idxTI-1
+i		idxTI19
+;
+28  p		idxTI-1
+i		idxTI22
+;
+29  p		idxTI-1
+i		idxTI23
+(		idxTI-1
+i		idxTI22
+)		idxTI-1
+;
+30  r		idxTI-1
+l		idxTI27
+;
+31  }		idxTI-1
+;
+32  
+Таблица идентификаторов:
+
+№    | Идентификатор | Тип данных | Тип идентификатора | Индекс в ТЛ |  Значение   
+
+0000    fi           integer   		функция		3                 -       
+0001    fix          integer   		параметр	6                 -       
+0002    fiy          integer   		параметр	9                 -       
+0003    fiz          integer   		переменная	14         0                 
+0004                 -         		оператор		19         *                 
+0005                 -         		оператор		22         +                 
+0006    fs           string    		функция		33                -       
+0007    fsa          string    		параметр	36                -       
+0008    fsb          string    		параметр	39                -       
+0009    fsc          string    		переменная	44         [43] "" 
+0010    substr       string    		функция		49                -       
+0011    substra      string    		параметр	52                -       
+0012    substrp      integer   		параметр	55                -       
+0013    substrn      integer   		параметр	58                -       
+0014    L1           integer   		литерал		67         1                 
+0015    L2           integer   		литерал		69         3                 
+0016                 -         		оператор		71         +                 
+0017    mainx        integer   		переменная	83         0                 
+0018    mainy        integer   		переменная	87         0                 
+0019    mainz        integer   		переменная	91         0                 
+0020    mainsa       string    		переменная	95         [0] "" 
+0021    mainsb       string    		переменная	99         [0] "" 
+0022    mainsc       string    		переменная	103        [0] "" 
+0023    strlen       integer   		функция		107               -       
+0024    strlenp      string    		параметр	110               -       
+0025    L3           integer   		литерал		119        5                 
+0026    L4           string    		литерал		123        [10] "1234567890" 
+0027    L5           integer   		литерал		163        0                 
+
+Количество идентификаторов:
+ 28

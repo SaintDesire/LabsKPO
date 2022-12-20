@@ -1,0 +1,5 @@
+﻿  Generation.cpp
+C:\Users\Admin\Desktop\лабы\лабы 2_1\КПО\SELab21\SELab21\Generation.cpp(59,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\лабы\лабы 2_1\КПО\SELab21\SELab21\Generation.cpp(26,14): warning C4101: untilParm: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\лабы\лабы 2_1\КПО\SELab21\SELab21\Generation.cpp(140,21): warning C4018: <: несоответствие типов со знаком и без знака
+  SELab21.vcxproj -> C:\Users\Admin\Desktop\лабы\лабы 2_1\КПО\SELab21\Debug\SELab21.exe
